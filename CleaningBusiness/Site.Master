@@ -67,11 +67,11 @@
 			</ul>
 		</div>
 	</div>
-	
+	<div id="contentplaceholder" class="container">
 		<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         
         </asp:ContentPlaceHolder>
-	
+	</div>
 </div>
 <div id="footer">
 	<p>&copy;All rights reserved. Design by <a href="http://mywebsite-18.apphb.com" rel="nofollow">VirgoSoft Design</a>. Web Site by <a href="http://mywebsite-18.apphb.com/">Dilan Jayawardene</a>.</p>
