@@ -4,7 +4,8 @@
     <link href="default.css" rel="stylesheet" type="text/css" media="all" />
     <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
    <div id="page" class="container">
-		<div><a href="#" class="image image-full"><img src="images/commercial-cleaning1.jpg" alt="" /></a></div>
+		<div><a href="#" class="image image-full"><img src="images/commercial-cleaning1.jpg" alt="" /></a></div>
+
 		<div class="column1">
 			<div class="title">
 				<h2>Our company</h2>
