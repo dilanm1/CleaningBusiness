@@ -314,6 +314,8 @@ hr {
 
 #footer {
 	overflow: hidden;
+    width: 100%;
+    height:auto;
 	background: #202020;
 	padding: 5em 0px 10em 0px;
 }
@@ -435,7 +437,8 @@ ul.style3 .first {
 	#portfolio-wrapper
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+        margin-top: 0px;
+		padding:1em;
 		background: rgba(0,0,0,.02);
 		background-image: url(images/overlay.png);
 		background-repeat: repeat;
