@@ -38,12 +38,11 @@
 		<div id="header" class="container">
 			<div id="logo">
 				<h1><a href="#">House Pride</a></h1>
-				<p>Cleaning Services</p>
+				<p>Cleaning Services</p>               
 			</div>        
-
-		<div id="telephone">
+        <div id="telephone">
             <h1>01978XXXXXX</h1>
-        </div>	
+        </div>		
         <div id="social">
 				<ul class="contact">
 					<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
@@ -55,7 +54,7 @@
 			</div>
 
 		</div>
-
+       	
 		<div id="menu" class="container">
 			<ul>
 				<li class="current_page_item"><a href="#" accesskey="1" title="">Homepage</a></li>

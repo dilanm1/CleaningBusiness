@@ -3,8 +3,8 @@
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Varela+Round" rel="stylesheet" />
     <link href="default.css" rel="stylesheet" type="text/css" media="all" />
     <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
-    <div id="page" class="container">
-		<div><a href="#" class="image image-full"><img src="images/commercial-cleaning1.jpg" alt="" /></a></div>
+   <div id="page" class="container">
+		<div><a href="#" class="image image-full"><img src="images/commercial-cleaning1.jpg" alt="" /></a></div>
 		<div class="column1">
 			<div class="title">
 				<h2>Our company</h2>
@@ -20,7 +20,7 @@
 			<div class="title">
 				<h2>office cleaning</h2>
 			</div>
-			<img src="images/ro82y4jp529z_3.jpg" width="282" height="150" alt="" />
+			<img src="images/ro82y4jp529z_3.jpg" alt="" />
 			<p>Phasellus tempor vehicula justo. Aliquam lacinia metus ut elit.</p>
 					<a href="#" class="button">read more</a> 
 		</div>

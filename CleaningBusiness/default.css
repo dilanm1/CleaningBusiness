@@ -102,7 +102,7 @@ hr {
 }
 
 .container {
-	width:auto;
+	width: 1200px;
 	margin: 0px auto;
 }
 
@@ -126,8 +126,8 @@ hr {
 
 #social
 {
-	position:absolute;
-	bottom: 5px;
+	position: absolute;
+	top: 4em;
 	right: 0;
 }
 
@@ -213,6 +213,13 @@ hr {
 
 #menu .last {
 	border-right: none;
+}
+#telephone h1 {
+	letter-spacing: -1px;	
+	font-size: 3em;
+	color: white;
+    margin: 0.5em 0 0 4em;
+    float:right;
 }
 
 /** PAGE */
@@ -314,8 +321,6 @@ hr {
 
 #footer {
 	overflow: hidden;
-    width: 100%;
-    height:auto;
 	background: #202020;
 	padding: 5em 0px 10em 0px;
 }
@@ -437,8 +442,7 @@ ul.style3 .first {
 	#portfolio-wrapper
 	{
 		overflow: hidden;
-        margin-top: 0px;
-		padding:1em;
+		padding: 5em 0em;
 		background: rgba(0,0,0,.02);
 		background-image: url(images/overlay.png);
 		background-repeat: repeat;
@@ -557,20 +561,6 @@ ul.style3 .first {
 		font-size: 1em;
 		color: #FFF;
 	}
-    #telephone {
-    position: absolute;
-    top: 3em;
-    right:10px;
-   
-	color:white;
-
-}
-    #telephone h1 {
-	letter-spacing: -1px;	
-	font-size: 3.5em;
-	color: white;
-}
-
 	
 /*********************************************************************************/
 /* Social Icon Styles                                                            */
@@ -612,3 +602,4 @@ ul.style3 .first {
 		color: rgba(255,255,255,1);
 	}
 	
+
