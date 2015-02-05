@@ -102,7 +102,7 @@ hr {
 }
 
 .container {
-	width: 100%;
+	width: 1200px;
 	margin: 0px auto;
 }
 
@@ -122,6 +122,7 @@ hr {
 	position: relative;
 	overflow: hidden;
 	height: 200px;
+    width:100%
 }
 
 #social
