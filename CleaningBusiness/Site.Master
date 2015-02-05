@@ -39,7 +39,8 @@
 			<div id="logo">
 				<h1><a href="#">House Pride</a></h1>
 				<p>Cleaning Services</p>
-			</div>        
+			</div>        
+
 		<div id="telephone">
             <h1>01978XXXXXX</h1>
         </div>	
@@ -51,7 +52,8 @@
 					<li><a href="#" class="icon icon-tumblr"><span>Google+</span></a></li>
 					<li><a href="#" class="icon icon-rss"><span>Pinterest</span></a></li>
 				</ul>
-			</div>
+			</div>
+
 		</div>
 
 		<div id="menu" class="container">

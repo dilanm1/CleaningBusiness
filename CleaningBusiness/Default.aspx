@@ -20,15 +20,15 @@
 			<div class="title">
 				<h2>office cleaning</h2>
 			</div>
-			<img src="images/pic01.jpg" width="282" height="150" alt="" />
+			<img src="images/ro82y4jp529z_3.jpg" width="282" height="150" alt="" />
 			<p>Phasellus tempor vehicula justo. Aliquam lacinia metus ut elit.</p>
 					<a href="#" class="button">read more</a> 
 		</div>
 		<div class="column4">
 			<div class="title">
-				<h2>industrial cleaning</h2>
+				<h2>retail cleaning</h2>
 			</div>
-			<img src="images/pic02.jpg" width="282" height="150" alt="" />
+			<img src="images/Retail-Department-Cleaning-300x198.jpg" width="282" height="150" alt="" />
 			<p>Quisque eleifend. Phasellus tempor vehicula justo. Aliquam lacinia metus.</p>
 					<a href="#" class="button">read more</a> 
 		</div>
