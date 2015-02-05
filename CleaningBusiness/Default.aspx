@@ -29,7 +29,7 @@
 				<h2>retail cleaning</h2>
 			</div>
 			<img src="images/Retail-Department-Cleaning-300x198.jpg" width="282" height="150" alt="" />
-			<p>Quisque eleifend. Phasellus tempor vehicula justo. Aliquam lacinia metus.</p>
+			<p>Quisque eleifend. Phasellus tempor vehicula justo. Aliquam.</p>
 					<a href="#" class="button">read more</a> 
 		</div>
 	</div>
