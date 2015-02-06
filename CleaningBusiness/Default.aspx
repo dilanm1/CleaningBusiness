@@ -5,7 +5,8 @@
     <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
    <div id="page" class="container">
 		<div><a href="#" class="image image-full"><img src="images/commercial-cleaning1.jpg" alt="" /></a></div>
-
+   <div id="portfolio-wrapper1">
+		<div id="portfolio1" class="container">
 		<div class="column1">
 			<div class="title">
 				<h2>Our company</h2>
@@ -34,6 +35,8 @@
 					<a href="#" class="button">read more</a> 
 		</div>
 	</div>
+       </div>
+       </div>
 	<div id="portfolio-wrapper">
 		<div id="portfolio" class="container">
 			<div class="title">

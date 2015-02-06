@@ -269,7 +269,7 @@ hr {
 
 #content {
 	float: left;
-	width: 100%;
+	width: 80%;
 	padding-right: 50px;
 	border-right: 1px solid #E6E7DC;
 }
@@ -450,13 +450,30 @@ ul.style3 .first {
 		background-image: url(images/overlay.png);
 		background-repeat: repeat;
 		border-top: 1px solid rgba(0,0,0,.05);
+        width:100%;
 	}
 	
 	#portfolio
 	{
 		text-align: center;
+        width:90%;
+	}
+	#portfolio1-wrapper
+	{
+		overflow: hidden;
+		padding: 0em 0em;
+		background: rgba(0,0,0,.02);
+		background-image: url(images/overlay.png);
+		background-repeat: repeat;
+		border-top: 1px solid rgba(0,0,0,.05);
+        width:100%;
 	}
 	
+	#portfolio1
+	{
+		text-align:left;
+        width:90%;
+	}
 	
 	#portfolio .icon
 	{
