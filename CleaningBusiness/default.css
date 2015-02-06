@@ -102,7 +102,7 @@ hr {
 }
 
 .container {
-	width: 1200px;
+	width: 100%;
 	margin: 0px auto;
 }
 
@@ -269,7 +269,7 @@ hr {
 
 #content {
 	float: left;
-	width: 800px;
+	width: 100%;
 	padding-right: 50px;
 	border-right: 1px solid #E6E7DC;
 }
