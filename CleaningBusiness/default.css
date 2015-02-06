@@ -184,6 +184,8 @@ hr {
 #menu {
 	overflow: hidden;
 	background: #202020;
+    width:100%;
+
 }
 
 #menu ul {
@@ -269,7 +271,7 @@ hr {
 
 #content {
 	float: left;
-	width: 80%;
+	width: 90%;
 	padding-right: 50px;
 	border-right: 1px solid #E6E7DC;
 }
